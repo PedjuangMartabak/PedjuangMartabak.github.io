@@ -1,0 +1,17 @@
+Microsoft Windows [Version 10.0.26100.3037]
+(c) Microsoft Corporation. All rights reserved.
+
+D:\Kepentingan\Semester 2\PedjuangMartabak.github.io>python scrape.py
+Gagal mengambil halaman. Status Code: 404
+
+D:\Kepentingan\Semester 2\PedjuangMartabak.github.io>python scrape.py
+Heading Utama: Tidak ditemukan
+H3: Profile
+H3: Pengalaman
+H3: Keterampilan
+H3: Fun Facts
+Link Navigasi: #profil - Profil
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #Facts - Facts
+
+D:\Kepentingan\Semester 2\PedjuangMartabak.github.io>
