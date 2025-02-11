@@ -1,0 +1,76 @@
+body,html {
+    background-image: url('download\ \(1\).jpeg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 100vh;
+    color:black
+    bottom : 0;
+
+  }
+  
+  header {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 10px;
+  }
+  
+  main, aside {
+    padding: 20px;
+  }
+  .wrapper {
+    display: flex;
+    align-items: first baseline; 
+    gap: 0px;
+    padding: 20px;}
+
+  .container {
+    display: flex;
+    justify-content: center; 
+    list-style: none;
+    padding: 5px;
+    background-color: azure;
+  }
+  a {
+    text-decoration: none; /* Hilangkan garis bawah */
+    color: black; /* Ubah warna teks agar tidak ungu */
+}
+.container li{
+    margin: 0 15px;
+}
+
+.profile-img {
+    width: 500px; /* Atur ukuran gambar */
+    height: auto;
+    border-radius: 50%; /* Membuat foto menjadi lingkaran */
+    margin-bottom: 10px; /* Jarak antara gambar dan teks */
+}
+
+
+.container3, .container4,.container2,.container1 {
+        display: flex;
+        text-align: center;
+        align-items: center;
+        flex-direction: column; /* Agar konten tersusun vertikal */
+        width: auto;
+        height: auto;
+        margin: 20px auto; /* Menambah jarak antar container */
+        background-color: azure;
+        padding: 20px;
+        border: 2px solid black;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1); /* Efek bayangan */
+    }
